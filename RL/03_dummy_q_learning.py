@@ -1,3 +1,6 @@
+"""
+Using Q-Table first "Dummy" Q-Learning
+"""
 import gym
 import numpy as np
 import matplotlib.pyplot as plt
